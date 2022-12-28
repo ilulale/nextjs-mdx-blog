@@ -1,5 +1,4 @@
-### A Next.js and MDX blog
+### AI Based Knowledge Base
 
-Tutorial: https://blog.jetbrains.com/webstorm/2021/10/building-a-blog-with-next-js-and-mdx/
+Deployed on : https://blog.ijustmadeart.tk/bio
 
-Built by [Ebenezer Don on YouTube](https://youtube.com/ebenezerdon)
