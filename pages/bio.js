@@ -1,6 +1,15 @@
+import Image from 'next/image'
 const Bio = () => {
   return (
     <div className="mt-3">
+                <Image
+                  src='/jfksps_using_this_image_male_a_cartoon_style_image_8b4093f5-1e2d-4dc1-b93c-7bfebd264742.png'
+                  className="img-fluid mt-1 rounded-start"
+                  alt="thumbnail"
+                  width={500}
+                  height={400}
+                  objectFit="cover"
+                />
       <h3>Kshitij Tapre</h3>
     <p>
 As a full stack developer, I have a strong foundation in computer engineering, specifically with a focus on JavaScript frameworks for both frontend and backend development. My bachelor&apos;s degree from Bombay University has given me a solid understanding of the field, and I have applied this knowledge to a number of projects involving Docker and Kubernetes.</p>
