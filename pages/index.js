@@ -16,7 +16,8 @@ const Home = ({ posts }) => {
                   <h5 className="card-title">{post.frontMatter.title}</h5>
                   <p className="card-text">{post.frontMatter.description}</p>
                   <p className="card-text">
-                    <small className="text-muted">{post.frontMatter.date}</small>
+                    <small className="text-muted">{post.frontMatter.date}</small><br />
+                    <small className="text-muted card-tags">{post.frontMatter.tags.map((tag)=><div className="card-tag">{tag}</div>)}</small>
                   </p>
                 </div>
               </div>

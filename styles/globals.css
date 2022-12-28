@@ -20,3 +20,13 @@ a {
 .pointer {
   cursor: pointer;
 }
+
+.card-tags{
+  display : flex;
+}
+.card-tag{
+  padding : 0.5rem;
+  margin : 0.25rem;
+  background: rgb(43 44 51);
+  border-radius: 50px 50px 50px 50px;
+}
