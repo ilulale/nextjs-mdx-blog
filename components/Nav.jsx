@@ -4,7 +4,7 @@ const Nav = () => {
   return (
     <nav className="nav p-3 border-bottom">
       <Link href="/" passHref>
-        <h2 className="pointer">Kshitij's Knowledge Base</h2>
+        <h2 className="pointer">Kshitij&apos;s Knowledge Base</h2>
       </Link>
 
       <Link href="/bio" passHref>
