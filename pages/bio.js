@@ -1,7 +1,7 @@
 const Bio = () => {
   return (
     <div className="mt-3">
-      <p className="display-4 text-center">Kshitij Tapre</p>
+      <h3>Kshitij Tapre</h3>
     <p>
 As a full stack developer, I have a strong foundation in computer engineering, specifically with a focus on JavaScript frameworks for both frontend and backend development. My bachelor's degree from Bombay University has given me a solid understanding of the field, and I have applied this knowledge to a number of projects involving Docker and Kubernetes.</p>
     <p>
