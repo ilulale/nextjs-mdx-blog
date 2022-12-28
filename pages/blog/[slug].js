@@ -5,7 +5,7 @@ import path from 'path'
 import matter from 'gray-matter'
 import SyntaxHighlighter from 'react-syntax-highlighter'
 
-import { Nav, Button } from '../../components'
+import { Nav, Button} from '../../components'
 
 const components = { Nav, Button, SyntaxHighlighter }
 
