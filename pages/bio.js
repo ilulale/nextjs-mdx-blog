@@ -12,9 +12,13 @@ const Bio = () => {
                 />
       <h3>Kshitij Tapre</h3>
     <p>
-As a full stack developer, I have a strong foundation in computer engineering, specifically with a focus on JavaScript frameworks for both frontend and backend development. My bachelor&apos;s degree from Bombay University has given me a solid understanding of the field, and I have applied this knowledge to a number of projects involving Docker and Kubernetes.</p>
-    <p>
-In addition to my technical skills, I am also highly interested in cybersecurity. I am currently exploring options to pursue a master&apos;s degree in the field, which would allow me to deepen my understanding of the latest security threats and best practices. My passion for cybersecurity, combined with my technical expertise, makes me well-equipped to tackle a variety of challenges in the field of software development and beyond. I am always looking for new opportunities to learn and grow, and I am excited to bring my skills and expertise to new projects and challenges.
+Hi there! I am a fullstack developer with a strong background in Javascript. I have experience working with a variety of stacks, including MERN and MEAN, and have completed several projects using these technologies. In addition to my technical skills, I am also proficient in containerisation and have experience deploying projects using cloud service providers such as AWS and GCP.
+
+</p><p>I received my bachelor's degree in Computer Engineering from Xaviers Institute of Engineering in Mahim. During my time there, I gained a solid foundation in computer science principles and developed a passion for software development. Since then, I have continued to grow my skillset through personal projects and professional experience.
+
+</p><p>One of my proudest professional achievements to date was the successful deployment of a project for a major healthcare company. Not only did I utilize my technical skills to build the application, but I also worked closely with the client to gather requirements and ensure that the final product met their needs.
+
+</p><p>In my free time, I enjoy staying up to date with the latest developments in the tech industry and participating in hackathons and coding challenges. I am always looking for new opportunities to learn and grow as a developer, and am excited to see where my career takes me next.
     </p>
     </div>
   )
