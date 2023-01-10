@@ -14,7 +14,7 @@ const Bio = () => {
     <p>
 Hi there! I am a fullstack developer with a strong background in Javascript. I have experience working with a plethora of stacks, including MERN and MEAN, and have completed several projects using these technologies. In addition to my technical skills, I am also proficient in containerisation and have experience deploying projects using cloud service providers such as AWS and GCP.
 
-</p><p>I received my bachelor's degree in Computer Engineering from Xaviers Institute of Engineering in Mahim. During my time there, I gained a solid foundation in computer science principles and developed a passion for software development. Since then, I have continued to grow my skillset through personal projects and professional experience.
+</p><p>I received my bachelor&apos;s degree in Computer Engineering from Xaviers Institute of Engineering in Mahim. During my time there, I gained a solid foundation in computer science principles and developed a passion for software development. Since then, I have continued to grow my skillset through personal projects and professional experience.
 
 </p><p>One of my proudest professional achievements to date was the successful deployment of a project for a major healthcare company. Not only did I utilize my technical skills to build the application, but I also worked closely with the client to gather requirements and ensure that the final product met their needs.
 
